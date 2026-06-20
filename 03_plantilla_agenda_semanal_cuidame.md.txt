@@ -1,0 +1,67 @@
+# PLANTILLA OFICIAL — AGENDA SEMANAL CUIDAME
+
+Plantilla de formato. No contiene datos oficiales ni códigos. Usar solo después de validar acceso.
+
+Usar para agenda semanal, planning semanal, planificación semanal o planificación completa del asistente. Solo semana en curso o semana siguiente. Si falta un dato: “No hay información registrada.” No inventar datos.
+
+# AGENDA SEMANAL — [NOMBRE PERSONA]
+Semana: [inicio] al [fin]
+Zona horaria: Europe/Madrid
+Asistente autorizado: [nombre]
+Código: ******
+
+## DATOS DE ATENCIÓN
+Dirección: [dirección ficticia]
+Teléfono: [teléfono ficticio]
+Contacto: [contacto ficticio]
+Teléfono contacto: [teléfono]
+Acceso: [indicaciones]
+Observaciones logísticas: [observaciones]
+
+## MEDICACIÓN PAUTADA
+| Medicamento | Cantidad | Horario | Frecuencia | Desde | Hasta | Indicaciones |
+|---|---|---|---|---|---|---|
+| [dato] | [dato] | [dato] | [dato] | [dato] | [dato] | [dato] |
+Aviso: No modificar dosis, horarios ni duración.
+
+## NO OLVIDAR
+Llaves, teléfono, documentación, gafas, bastón/andador, agua, abrigo/paraguas, otros.
+
+## PLANIFICACIÓN POR DÍA
+### [DÍA] [FECHA]
+- [hora] — [actividad/cita/tarea]
+  - Lugar: [lugar]
+  - Acompañante: [acompañante]
+  - Hora de salida: [hora]
+  - Objetos: [objetos]
+  - Observaciones: [observaciones]
+
+## PRÓXIMAS CITAS FUERA DE ESTA SEMANA
+Mostrar solo si el archivo lo permite y sin superar límites de consulta.
+
+## REQUISITO FAMILIAR ESPECIAL
+Mostrar solo requisito organizativo. No interpretar clínicamente.
+
+## OBSERVACIONES
+[observaciones o “No hay información registrada.”]
+
+Fuente: archivos de conocimiento de CuidaME. Documento organizativo. No es herramienta médica.
+
+---
+
+# PLANIFICACIÓN SEMANAL DEL ASISTENTE — [NOMBRE]
+Semana: [inicio] al [fin]
+Zona horaria: Europe/Madrid
+Usar solo para asistente validado. Buscar pacientes asignados en `01_accesos_cuidame.txt`.
+
+## TURNO MAÑANA — 07:00 A 13:00
+| Día | Hora | Paciente | Actividad | Dirección | Teléfono | Contacto | Objetos |
+|---|---|---|---|---|---|---|---|
+| [dato] | [dato] | [autorizado] | [dato] | [dato] | [dato] | [dato] | [dato] |
+
+## TURNO TARDE — 14:30 A 18:00
+| Día | Hora | Paciente | Actividad | Dirección | Teléfono | Contacto | Objetos |
+|---|---|---|---|---|---|---|---|
+| [dato] | [dato] | [autorizado] | [dato] | [dato] | [dato] | [dato] | [dato] |
+
+No mostrar sábados, domingos, feriados, códigos ni pacientes no autorizados.

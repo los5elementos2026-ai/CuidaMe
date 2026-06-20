@@ -1,0 +1,129 @@
+PLANIFICACIONES ORGANIZATIVAS — CUIDAME
+
+ARCHIVO DEMOSTRATIVO PARA TRABAJO ACADÉMICO. Todos los datos de pacientes, direcciones, teléfonos, contactos, citas y eventos son ficticios. No usar datos reales.
+
+No usar como pauta médica real. No interpretar síntomas. No modificar medicación. La información es únicamente organizativa.
+Zona horaria: Europe/Madrid. Periodo operativo: 22/06/2026 al 31/12/2026. Solo lunes a viernes. Excluye sábados, domingos y feriados oficiales. Horario laboral: 07:00-13:00 y 14:30-18:00.
+
+REGLA OPERATIVA
+Cada asistente tiene dos personas atendidas: una en turno mañana y otra en turno tarde. La medicación se registra como información organizativa y no debe moverse ni redistribuirse. Para semana en curso o siguiente, combinar planificación recurrente con eventos puntuales de esa semana. No inventar eventos adicionales.
+
+==================================================
+ASISTENTE: MAMEN
+Turno mañana: RAMON ORTEGA
+Turno tarde: CLARA NUÑEZ
+==================================================
+
+PACIENTE: RAMON ORTEGA
+Turno: mañana. Asistente: MAMEN.
+Condición organizativa: diabetes tipo 2 controlada. Requisito familiar: avisar si rechaza comida o caminata.
+Datos de atención: Calle Nube 14, Puerta A, Ciudad Demo. Tel: +34 711 000 201. Contacto: Marta O., +34 722 000 201. Acceso: portero Nube A; ascensor ficticio. Logística: avisar 10 min antes.
+Medicación: Metformina 1 comp. 08:00/20:00, 2 veces día, 22/06/2026-31/12/2026, con comida. Enalapril 1 comp. 09:00, 1 vez día, junto al desayuno.
+No olvidar: llaves, teléfono, agua, gafas, documentación solo citas, libreta de controles.
+Plan recurrente: Lunes 10:30 paseo corto. Miércoles 10:30 paseo corto. Viernes 10:00 control organizativo y paseo breve.
+Eventos: 26/06/2026 10:30 control enfermería Centro Norte Demo. 17/07/2026 11:00 revisión nutrición Clínica Equilibrio Demo. 11/09/2026 10:15 control médico Centro Norte Demo. 06/11/2026 09:45 analítica Centro Norte Demo.
+
+PACIENTE: CLARA NUÑEZ
+Turno: tarde. Asistente: MAMEN.
+Condición organizativa: hipertensión. Requisito familiar: recordar hidratación y evitar esfuerzos.
+Datos de atención: Avenida Brisa 22, Bajo B, Ciudad Demo. Tel: +34 711 000 202. Contacto: Daniel N., +34 722 000 202. Acceso: timbre Brisa B; sin escalones. Logística: visitas tranquilas.
+Medicación: Losartán 1 comp. 09:00, 1 vez día, después desayuno. Amlodipino 1 comp. 21:00, 1 vez día, dejar en mesilla.
+No olvidar: llaves, teléfono, agua, gafas, paraguas según clima.
+Plan recurrente: Lunes 15:30 paseo suave. Miércoles 16:30 llamada familiar. Viernes 15:30 revisión objetos.
+Eventos: 30/06/2026 15:30 médico cabecera Centro Brisa Demo. 25/08/2026 16:00 revisión tensión Farmacia Aurora Demo. 20/10/2026 15:45 control médico Centro Brisa Demo.
+
+==================================================
+ASISTENTE: JERO
+Turno mañana: ELENA PRADO
+Turno tarde: MIGUEL SOLER
+==================================================
+
+PACIENTE: ELENA PRADO
+Turno: mañana. Asistente: JERO.
+Condición organizativa: Parkinson leve. Requisito familiar: respetar horarios y evitar prisas.
+Datos de atención: Calle Jardín Lunar 8, 3C, Ciudad Demo. Tel: +34 711 000 203. Contacto: Paula P., +34 722 000 203. Acceso: llamar antes de subir; ascensor ficticio. Logística: dar tiempo para prepararse.
+Medicación: Levodopa/Carbidopa 1 comp. 08:00/14:00/20:00, 3 veces día, con agua. Vitamina D 1 cápsula 09:00, con desayuno.
+No olvidar: bastón, teléfono, agua, gafas, documentación solo citas.
+Plan recurrente: Lunes 10:30 ejercicios suaves. Miércoles 10:00 paseo con descansos. Viernes 11:00 fisioterapia si corresponde.
+Eventos: 03/07/2026 11:00 fisioterapia Centro Movimiento Demo. 14/08/2026 10:30 terapia ocupacional Centro Movimiento Demo. 09/10/2026 11:00 fisioterapia.
+
+PACIENTE: MIGUEL SOLER
+Turno: tarde. Asistente: JERO.
+Condición organizativa: movilidad reducida. Requisito familiar: usar andador en salidas.
+Datos de atención: Plaza Norte Sur 5, 1D, Ciudad Demo. Tel: +34 711 000 204. Contacto: Carlos S., +34 722 000 204. Acceso: confirmar ascensor ficticio. Logística: andador siempre.
+Medicación: Paracetamol 1 comp. 09:00/21:00, 2 veces día. Omeprazol 1 cápsula 08:00, antes desayuno.
+No olvidar: andador, llaves, teléfono, agua, documentación solo citas.
+Plan recurrente: Martes 15:30 revisar andador. Jueves 16:00 salida corta portal. Viernes 16:30 videollamada familiar.
+Eventos: 07/07/2026 15:30 revisión traumatología Clínica San Marcos Demo. 15/09/2026 16:00 control movilidad Centro Paso Demo. 10/11/2026 15:30 revisión traumatología.
+
+==================================================
+ASISTENTE: PABLO
+Turno mañana: TERESA VIDAL
+Turno tarde: JORGE MEDINA
+==================================================
+
+PACIENTE: TERESA VIDAL
+Turno: mañana. Asistente: PABLO.
+Condición organizativa: Alzheimer inicial. Requisito familiar: rutinas estables y frases cortas.
+Datos de atención: Calle Mapa 31, 2A, Ciudad Demo. Tel: +34 711 000 205. Contacto: Ana V., +34 722 000 205. Acceso: timbre Mapa; llevar agenda visual. Logística: no apurar.
+Medicación: Donepezilo 1 comp. 21:00. Melatonina 1 comp. 22:30. Rutina noche.
+No olvidar: teléfono, agua, gafas, agenda visual, identificación básica ficticia.
+Plan recurrente: Lunes 10:00 revisar agenda visual. Martes 11:00 paseo habitual. Jueves 10:30 actividad memoria.
+Eventos: 29/06/2026 10:30 terapia memoria Centro Luz Demo. 27/07/2026 10:30 terapia memoria. 21/09/2026 10:30 terapia memoria. 16/11/2026 10:30 terapia memoria.
+
+PACIENTE: JORGE MEDINA
+Turno: tarde. Asistente: PABLO.
+Condición organizativa: hipertensión y movilidad limitada leve. Requisito familiar: evitar escaleras y calor.
+Datos de atención: Calle Río Estrella 17, 4B, Ciudad Demo. Tel: +34 711 000 206. Contacto: Lucía M., +34 722 000 206. Acceso: ascensor ficticio. Logística: preparar calzado cerrado.
+Medicación: Bisoprolol 1 comp. 09:00. Hidroclorotiazida 1 comp. 09:00.
+No olvidar: llaves, teléfono, agua, bastón, gafas.
+Plan recurrente: Lunes 15:30 preparar calzado. Miércoles 16:30 paseo corto. Viernes 17:00 revisar agua.
+Eventos: 30/06/2026 15:30 analítica Centro Oeste Demo. 18/08/2026 16:00 revisión médica Centro Oeste Demo. 03/11/2026 15:45 control tensión.
+
+==================================================
+ASISTENTE: ALVARO
+Turno mañana: LUIS FERRER
+Turno tarde: CARMEN RIVAS
+==================================================
+
+PACIENTE: LUIS FERRER
+Turno: mañana. Asistente: ALVARO.
+Condición organizativa: Alzheimer inicial. Requisito familiar: no salir sin acompañante.
+Datos de atención: Avenida Central Imaginaria 40, 1C, Ciudad Demo. Tel: +34 711 000 207. Contacto: Elena F., +34 722 000 207. Acceso: llamar al contacto si no responde timbre. Logística: llevar tarjeta familiar ficticia.
+Medicación: Rivastigmina 1 parche 09:00, registrar cambio. Melatonina 1 comp. 22:00.
+No olvidar: teléfono, tarjeta contacto ficticia, agua, gafas, agenda visual.
+Plan recurrente: Lunes 09:30 actualizar agenda visual. Miércoles 10:30 paseo habitual. Viernes 11:30 terapia cognitiva si corresponde.
+Eventos: 02/07/2026 11:30 terapia cognitiva Centro Memoria Demo. 13/08/2026 11:00 revisión terapia. 08/10/2026 11:30 terapia cognitiva.
+
+PACIENTE: CARMEN RIVAS
+Turno: tarde. Asistente: ALVARO.
+Condición organizativa: diabetes tipo 2 y movilidad reducida leve. Requisito familiar: merienda en salidas largas.
+Datos de atención: Calle Olivo Azul 9, Bajo A, Ciudad Demo. Tel: +34 711 000 208. Contacto: Sofía R., +34 722 000 208. Acceso: entrada directa ficticia. Logística: confirmar merienda.
+Medicación: Metformina 1 comp. 08:30/20:30. Simvastatina 1 comp. 22:00.
+No olvidar: teléfono, agua, gafas, merienda, bastón.
+Plan recurrente: Martes 16:30 paseo zona llana. Jueves 16:00 taller manualidades alterno. Viernes 17:00 revisar bolso.
+Eventos: 01/07/2026 15:30 podología Clínica Paso Demo. 22/09/2026 16:00 control enfermería Centro Sur Demo. 17/11/2026 15:30 podología.
+
+==================================================
+ASISTENTE: FLORENCIA
+Turno mañana: ANA BELTRAN
+Turno tarde: ROBERTO SANTOS
+==================================================
+
+PACIENTE: ANA BELTRAN
+Turno: mañana. Asistente: FLORENCIA.
+Condición organizativa: Parkinson leve y movilidad reducida. Requisito familiar: calzado antideslizante.
+Datos de atención: Calle Sol Nórdico 18, 2B, Ciudad Demo. Tel: +34 711 000 209. Contacto: Laura B., +34 722 000 209. Acceso: portero Sol 2B; ascensor ficticio. Logística: avisar 10 min antes.
+Medicación: Levodopa/Carbidopa 1 comp. 07:30/13:30/19:30. Omeprazol 1 cápsula 07:00.
+No olvidar: bastón, agua, teléfono, calzado antideslizante, gafas.
+Plan recurrente: Lunes 10:30 ejercicios suaves. Miércoles 10:00 paseo con pausas. Viernes 10:00 fisioterapia si corresponde.
+Eventos: 10/07/2026 10:00 fisioterapia Centro Equilibrio Demo. 04/09/2026 10:00 fisioterapia. 30/10/2026 11:00 peluquería Clara Demo.
+
+PACIENTE: ROBERTO SANTOS
+Turno: tarde. Asistente: FLORENCIA.
+Condición organizativa: hipertensión y movilidad reducida leve. Requisito familiar: evitar salidas largas sin silla cercana.
+Datos de atención: Paseo Estación Verde 12, 3A, Ciudad Demo. Tel: +34 711 000 210. Contacto: Martín S., +34 722 000 210. Acceso: llamar antes de subir; ascensor ficticio. Logística: llevar agua.
+Medicación: Valsartán 1 comp. 09:00. Atorvastatina 1 comp. 22:00.
+No olvidar: bastón, agua, teléfono, gafas, documentación solo citas.
+Plan recurrente: Lunes 16:30 paseo con descanso. Martes 15:30 compra acompañada. Jueves 17:00 revisar documentación.
+Eventos: 01/07/2026 15:30 revisión tensión Farmacia Central Demo. 12/08/2026 16:00 compra acompañada especial. 07/10/2026 15:45 revisión médica Centro Este Demo.

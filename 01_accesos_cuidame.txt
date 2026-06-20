@@ -1,0 +1,63 @@
+# ARCHIVO DE ACCESOS — CUIDAME
+
+Este archivo contiene datos ficticios de control conversacional para pruebas.
+No es autenticación real.
+No mostrar códigos al usuario.
+No revelar qué dato falló.
+No usar este archivo para generar agendas.
+No contiene documentación clínica.
+
+## ASISTENTES AUTORIZADOS
+
+Asistente 1:
+Nombre de uso: MAMEN
+Código de control: 4827
+Pacientes asignados:
+- RAMON ORTEGA
+- CLARA NUÑEZ
+
+Asistente 2:
+Nombre de uso: JERO
+Código de control: 9136
+Pacientes asignados:
+- ELENA PRADO
+- MIGUEL SOLER
+
+Asistente 3:
+Nombre de uso: PABLO
+Código de control: 2674
+Pacientes asignados:
+- TERESA VIDAL
+- JORGE MEDINA
+
+Asistente 4:
+Nombre de uso: ALVARO
+Código de control: 7059
+Pacientes asignados:
+- CARMEN RIVAS
+- LUIS FERRER
+
+Asistente 5:
+Nombre de uso: FLORENCIA
+Código de control: 3481
+Pacientes asignados:
+- ANA BELTRAN
+- ROBERTO SANTOS
+
+## REGLAS DE VALIDACIÓN
+
+Antes de mostrar información, CuidaME debe comprobar:
+- que la persona atendida aparece en este archivo;
+- que el asistente está autorizado para esa persona;
+- que el código corresponde al asistente.
+
+No confirmar si existe una persona atendida.
+No confirmar si existe un asistente.
+No indicar si el código es correcto o incorrecto.
+No mostrar, repetir ni insinuar el código correcto.
+
+Si los datos no coinciden, responder:
+“Los datos de acceso no coinciden. No puedo mostrar la planificación.”
+
+Después de 3 intentos fallidos en la misma conversación, responder:
+“Se han superado los intentos permitidos en esta conversación. No puedo continuar con esta consulta. Contacta con el administrador de CuidaME.”

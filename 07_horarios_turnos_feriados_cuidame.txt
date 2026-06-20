@@ -1,0 +1,58 @@
+HORARIOS, TURNOS Y FERIADOS CUIDAME
+
+OBJETIVO
+Define horario laboral, días no laborables, compatibilidad de turnos y reglas para generar la planificación completa del asistente.
+
+HORARIO LABORAL
+Servicio solo de lunes a viernes, excepto feriados oficiales de España cargados aquí. Turno mañana: 07:00 a 13:00. Turno tarde: 14:30 a 18:00. Pausa: 13:00 a 14:30. Zona horaria: Europe/Madrid.
+
+LÍMITE DE CONSULTA DE FECHAS
+
+El usuario puede consultar únicamente:
+
+* fecha de hoy;
+* una fecha dentro de los próximos 14 días;
+* un rango dentro de los próximos 14 días;
+* semana en curso;
+* semana siguiente.
+
+No mostrar planificación fuera de ese límite.
+
+Si la fecha consultada es sábado, domingo o feriado, responder:
+“Hoy es feriado o día no laborable. El servicio no será prestado.”
+
+Si el rango incluye días no laborables, excluir sábados, domingos y feriados, y mostrar solo días laborables disponibles.
+
+Si no hay información disponible para la fecha o rango, responder:
+“No encuentro información disponible para esta fecha. ¿Quieres modificarla?”
+
+DÍAS NO LABORABLES
+No se presta servicio sábados, domingos, feriados oficiales de España ni fechas marcadas por el administrador como no laborables.
+Si la fecha consultada es sábado, domingo o feriado, responder exactamente: “Hoy es feriado o día no laborable. El servicio no será prestado.”
+
+FERIADOS ESPAÑA 2026 — NACIONALES COMUNES
+01/01/2026 Año Nuevo; 06/01/2026 Epifanía del Señor; 03/04/2026 Viernes Santo; 01/05/2026 Fiesta del Trabajo; 15/08/2026 Asunción de la Virgen; 12/10/2026 Fiesta Nacional de España; 08/12/2026 Inmaculada Concepción; 25/12/2026 Navidad.
+Nota académica: si se define comunidad autónoma o municipio, el administrador debe añadir feriados autonómicos/locales.
+
+ASIGNACIÓN DE TURNOS POR ASISTENTE
+MAMEN: Mañana RAMON ORTEGA; Tarde CLARA NUÑEZ.
+JERO: Mañana ELENA PRADO; Tarde MIGUEL SOLER.
+PABLO: Mañana TERESA VIDAL; Tarde JORGE MEDINA.
+ALVARO: Mañana LUIS FERRER; Tarde CARMEN RIVAS.
+FLORENCIA: Mañana ANA BELTRAN; Tarde ROBERTO SANTOS.
+
+PLANIFICACIÓN LABORAL DEL ASISTENTE
+Cuando el asistente solicite “mi planificación completa como asistente”: usar el asistente validado; no pedir otra persona; buscar sus pacientes en `01_accesos_cuidame.txt`; buscar planificación en `02_planificaciones_pacientes_cuidame.txt`; mostrar solo pacientes autorizados; mostrar solo semana en curso o semana siguiente; separar por fecha, turno mañana y turno tarde.
+
+COMPATIBILIDAD
+Dentro de turno: lunes a viernes 07:00-13:00 y 14:30-18:00. Fuera de turno: antes de 07:00, 13:00-14:30, después de 18:00, sábados, domingos y feriados.
+No mostrar sábados, domingos ni feriados en planificación del asistente. No mover medicación. No cambiar citas fijas. No inventar tareas, horarios ni eventos. No afirmar reorganización guardada.
+
+DATOS A INCLUIR EN PLANNING DEL ASISTENTE
+Para cada visita o actividad incluir, si aparece: persona atendida, dirección ficticia, teléfono ficticio, contacto responsable ficticio, teléfono de contacto, acceso, actividad/cita/tarea, hora, lugar, objetos y observaciones logísticas.
+
+AUSENCIA DE DATOS
+Si no hay tareas para el asistente en fecha consultada, responder: “No hay tareas registradas para tu turno en esa fecha.”
+
+SEGURIDAD
+Este archivo no autoriza a mostrar información sin validación previa. Aplican reglas de acceso, privacidad y no modificación.

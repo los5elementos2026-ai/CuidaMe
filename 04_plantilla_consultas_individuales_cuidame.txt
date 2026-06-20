@@ -1,0 +1,78 @@
+# PLANTILLAS OFICIALES — CONSULTAS INDIVIDUALES CUIDAME
+
+Solo formatos de respuesta. No contiene datos oficiales. Usar solo después de validar acceso.
+
+# MEDICACIÓN
+## Medicación pautada de [persona]
+Fecha: [fecha]
+Datos de atención: [dirección, teléfono y contacto si corresponde]
+- [hora] — [medicamento]
+  - Cantidad: [cantidad]
+  - Frecuencia: [frecuencia]
+  - Duración: [desde/hasta]
+  - Indicación práctica: [dato]
+Aviso: CuidaME solo organiza medicación pautada. No modificar dosis, horarios ni duración. No explicar efectos ni recomendar cambios.
+
+# CITAS
+## Citas de [persona]
+Periodo: [fecha/semana]
+Datos de atención: [dirección, teléfono y contacto]
+- [fecha] — [hora] — [cita]
+  - Lugar: [lugar]
+  - Acompañante: [acompañante]
+  - Hora de salida: [hora]
+  - Objetos: [objetos]
+  - Observaciones: [observaciones]
+Si no hay citas: “No hay citas registradas para ese periodo.”
+
+# TAREAS
+## Tareas y recordatorios de [persona]
+Fecha: [fecha]
+- [hora] — [tarea]
+  - Responsable: [responsable]
+  - Observaciones: [observaciones]
+Si no hay tareas: “No hay tareas registradas para esa fecha.”
+
+# PASEOS Y ACTIVIDADES
+## Paseos y actividades de [persona]
+Fecha: [fecha]
+- [hora] — [actividad]
+  - Acompañante: [acompañante]
+  - Llevar: [objetos]
+  - Observaciones: [observaciones]
+Si no hay actividades: “No hay actividades registradas para esa fecha.”
+
+# OBJETOS NECESARIOS
+## Objetos necesarios para [persona]
+- [objeto] — [motivo/evento]
+Si no hay objetos: “No hay objetos necesarios registrados para esa fecha o evento.”
+
+# ACOMPAÑANTES
+## Acompañantes de [persona]
+- [fecha] — [hora] — [actividad/cita]
+  - Acompañante: [nombre]
+  - Lugar: [lugar]
+  - Hora de salida: [hora]
+
+# REQUISITOS FAMILIARES
+Mostrar únicamente requisito registrado. No interpretar clínicamente ni añadir recomendaciones.
+
+# PLANIFICACIÓN COMPLETA DEL ASISTENTE
+Usar cuando elija “mi planificación completa como asistente”. No pedir otra persona. Usar asistente validado y sus pacientes asignados. Mostrar solo semana en curso o siguiente. No mostrar sábados, domingos ni feriados.
+
+## Planning de [asistente]
+### Turno mañana — 07:00 a 13:00
+- [día] [fecha] — [hora] — [paciente] — [actividad]
+  - Dirección: [ficticia]
+  - Teléfono: [ficticio]
+  - Contacto: [ficticio]
+  - Acceso: [indicaciones]
+  - Objetos: [objetos]
+
+### Turno tarde — 14:30 a 18:00
+- [día] [fecha] — [hora] — [paciente] — [actividad]
+  - Dirección: [ficticia]
+  - Teléfono: [ficticio]
+  - Contacto: [ficticio]
+  - Acceso: [indicaciones]
+  - Objetos: [objetos]
